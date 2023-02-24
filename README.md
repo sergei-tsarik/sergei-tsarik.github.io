@@ -1,8 +1,8 @@
 <h3>Текущий счет (BYN)</h3>
 <p>
-  BIC<br>
+  <b>BIC</b><br>
   AKBBBY2X<br>
-  IBAN<br>
+  <b>IBAN</b><br>
   BY30AKBB30140015732780070000<br>
 </p>
 <p>
