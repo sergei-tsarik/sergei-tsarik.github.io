@@ -19,3 +19,10 @@ Sergei Tsarik<br>
 <p>
 От 25 BYN продолжительностью до 40 минут.
 </p>
+<h3>Контакты</h3>
+<p>
+  <b>Viber, Telegram</b><br>
+  +375296550009<br>
+  <b>Skype</b><br>
+  serge.tsarik<br>
+</p>
