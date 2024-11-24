@@ -25,8 +25,8 @@ Sergei Tsarik<br>
 > Если необходимо оплатить наличными, воспользуйтесь, пожалуйста, инструкцией ["Пополнение счета наличными"](https://belarusbank.by/ru/fizicheskim_licam/cards/uslugi/10906){:target="_blank" rel="noopener"} в отделении Беларусьбанка.
 <h2>Контакты</h2>
 <p>
-  [Viber](viber://chat/?number=%2B+375296550009),<br>
-  [Telegram](https://t.me/+375296550009),<br>
-  [Skype](skype:profile_name?serge.tsarik),<br>
+  <a href="viber://chat/?number=%2B+375296550009">Viber</a>,<br>
+  <a href="https://t.me/+375296550009">Telegram</a>,<br>
+  <a href="skype:profile_name?serge.tsarik">Skype</a>,<br>
   +375296550009
 </p>
