@@ -22,7 +22,7 @@ Sergei Tsarik<br>
   <b>IBAN</b><br>
   BY30AKBB30140015732780070000<br>
 </p>
-> Если необходимо оплатить наличными, воспользуйтесь, пожлалуйста, инструкцией ["Пополнение счета наличными"](https://belarusbank.by/ru/fizicheskim_licam/cards/uslugi/10906){:target="_blank" rel="noopener"} в отделении Беларусьбанка.
+> Если необходимо оплатить наличными, воспользуйтесь, пожалуйста, инструкцией ["Пополнение счета наличными"](https://belarusbank.by/ru/fizicheskim_licam/cards/uslugi/10906){:target="_blank" rel="noopener"} в отделении Беларусьбанка.
 <h2>Контакты</h2>
 <p>
   [Viber](viber://chat/?number=%2B+375296550009),<br>
