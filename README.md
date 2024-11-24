@@ -7,7 +7,7 @@
 <p>
 От 50 BYN продолжительностью до 40 минут.
 </p>
-<h2>Олата</h2>
+<h2>Оплата</h2>
 <h3>Карточка</h3>
 <p>
 Беларусбанк (Belarusbank)<br>
@@ -26,7 +26,7 @@ Sergei Tsarik<br>
 <h2>Контакты</h2>
 <p>
   [Viber](viber://chat/?number=%2B+375296550009),<br>
-  [Telegram[(https://t.me/+375296550009),<br>
+  [Telegram](https://t.me/+375296550009),<br>
   [Skype](skype:profile_name?serge.tsarik),<br>
   +375296550009
 </p>
